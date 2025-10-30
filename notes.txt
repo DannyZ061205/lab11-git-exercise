@@ -1,3 +1,6 @@
 This is my first note for the Git lab exercise.
 Learning about version control with Git is essential for collaborative development.
 I'm excited to practice cloning, committing, pushing, and pulling changes.
+
+## Summary
+This exercise covered the basics of Git workflow including cloning repositories, making commits, and synchronizing changes between local and remote repositories.
