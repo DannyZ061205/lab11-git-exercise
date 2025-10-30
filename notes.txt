@@ -4,6 +4,7 @@ I'm excited to practice cloning, committing, pushing, and pulling changes.
 
 ## Summary
 Git is a powerful distributed version control system that helps teams collaborate effectively on code projects.
+This exercise covered the basics of Git workflow including cloning repositories, making commits, and synchronizing changes between local and remote repositories.
 
 ## Insights
 Understanding branching and merging strategies is crucial for managing complex development workflows.
