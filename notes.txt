@@ -8,3 +8,6 @@ This exercise covered the basics of Git workflow including cloning repositories,
 
 ## Insights
 Understanding branching and merging strategies is crucial for managing complex development workflows.
+
+## Best Practices
+Always write clear commit messages and commit frequently to track progress effectively.
