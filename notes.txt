@@ -11,3 +11,6 @@ Understanding branching and merging strategies is crucial for managing complex d
 
 ## Best Practices
 Always write clear commit messages and commit frequently to track progress effectively.
+
+## Rebase Example
+This section was added on the feature/rebase-demo branch to demonstrate rebasing.
